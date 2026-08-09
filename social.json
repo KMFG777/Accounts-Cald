@@ -1,0 +1,21 @@
+{
+  "accounts": {
+    "1529365646020837396": {
+      "youtube": "https://www.youtube.com/@CA-CALD",
+      "youtubeChannelId": "",
+      "notifyChannelId": "1529400628441251860",
+      "instagram": "https://www.instagram.com/ca.cald/",
+      "twitch": "https://www.twitch.tv/ca_cald",
+      "kick": "https://kick.com/ca-cald",
+      "tiktok": "https://www.tiktok.com/@ca_cald",
+      "twitter": "https://x.com/CA_CALD",
+      "threads": "https://www.threads.com/@ca.cald",
+      "snapchat": "https://www.snapchat.com/@ca.cald",
+      "bannerUrl": "",
+      "everyonePing": true
+    }
+  },
+  "feeds": {
+    "1529365646020837396": {}
+  }
+}
